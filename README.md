@@ -1,6 +1,5 @@
 # 💫 About Me:
-Currently in 6th semester BTech (AI & ML) at Shri Shankaracharya Institute of Professional Management & Technology (SSIPMT), building full-stack projects using HTML, CSS, JavaScript, and MongoDB,React,NextJs<br>Looking for internships or placements in software development, full-stack roles, or DSA-focused positions to apply my Java, Python, and database skills<br>Contributed to open-source projects like RADIS for spectroscopy simulations while prepping for GSoC <br>
-
+Currently in 6th semester BTech (AI & ML) at Shri Shankaracharya Institute of Professional Management & Technology (SSIPMT), building full-stack projects using HTML, CSS, JavaScript, and MongoDB,React,NextJs<br>Looking for internships or placements in software development, full-stack roles, or DSA-focused positions to apply my Java, Python, and database skills<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-pandey-ai/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vp220626@gmail.com) 
